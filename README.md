@@ -2,7 +2,7 @@
 8th_Sem_Major_Project on "Futuristic Body Pose Language Detection System Using Convolution Neural Network" 
 
 
-# I INTRODUCTION 
+#  INTRODUCTION 
 Decades of research have focused on deciphering human emotions through facial expressions, but what if the key lies not just in our faces, but in the symphony of our bodies? Enter the Futuristic Body Pose Language Detection System, a revolutionary project harnessing the power of Convolutional Neural Networks (CNNs) to unlock the silent language of movement.
 
 This groundbreaking system transcends the limitations of traditional emotion recognition by incorporating body posture, gestures, and subtle movements into its analysis. Imagine it reading the intricate choreography of a raised shoulder, a clenched fist, or a hesitant step, weaving them into a tapestry of understanding far richer than facial expressions alone. This holistic approach promises to unlock a nuanced and accurate portrayal of human emotions, paving the way for a future of deeper human-machine interaction.
@@ -17,7 +17,7 @@ The Futuristic Body Pose Language Detection System is not just a technological m
 
 
 
-#   V REQUIREMENT GATHERING
+#  REQUIREMENT GATHERING
 System Functionality:Unlike limitations of traditional methods, this system transcends static images. It delves into the dynamic realm of video streams, analyzing the ever-evolving language of movement – a confident stride, a nervous fidget, a fleeting smile – all paint a vivid picture of what lies beneath the surface
 
 Data Requirements:We need a massive and diverse dataset, thousands or even millions of labeled images and videos. Each one should showcase various body language cues and their corresponding emotions. Imagine a library of confident poses, nervous fidgets, and joyful smiles, all captured and labeled for the system to learn from.High-resolution images and videos free from noise are crucial. This ensures the system learns from clear examples, not blurry distractions.
@@ -25,7 +25,7 @@ Data Requirements:We need a massive and diverse dataset, thousands or even milli
 Technical Requirements:Think of this as the system's brain. Popular frameworks like TensorFlow or PyTorch provide the foundation for building and training the Convolutional Neural Network (CNN) that will become the core of the system.Just like 
  
 
- # VI. CHALLENGES AND LIMITATIONS IN THE EXISTING SYSTEM
+ #  CHALLENGES AND LIMITATIONS IN THE EXISTING SYSTEM
 
 Body Pose Language Detection System Using CNN Is essential for creating personalized and engaging chatbot experiences. However, there are some challenges and considerations that need to be addressed when dealing with working and usage of datasets . These include:
 
@@ -45,7 +45,7 @@ Mitigating Misuse and Bias: Research is needed to address potential misuse of th
 Job Displacement: The potential impact of the technology on professions relying on body language reading requires careful consideration. Research can explore retraining and upskilling programs to minimize job displacement.
 Cultural Sensitivity: Body language interpretation varies significantly across cultures. Research can focus on developing culturally aware models that avoid misinterpretations in diverse context.
 
-                           # VII. ALGORITHM:
+ # VII. ALGORITHM:
 Step 1: Load the 3D human pose estimation pre-trained CNN model 
 Step 2: Input Image Preprocessing and Resizing it to a fixed size and  pixel values normalizing.
 Step 3: Preprocessed image Feed to the CNN model to obtain the predicted 3D pose.
@@ -57,7 +57,7 @@ Step 8: CNN model's Fine-tuning Model by Hyperparameters's Adjustment  or Changi
 Step 9: Deploy the 3D human Pose Estimation's Trained CNN model In Real-World Applications by Integrating it into a Software or Mobile Application System.
 Step 10: Deployed Model's Performance's Monitoring and Optimizing at each time.
                    
-#            VIII. ARCHITECTURE DIAGRAM
+#    VIII. ARCHITECTURE DIAGRAM
 
 ![architecture_diagram](https://github.com/Sarthak1261/ICONDEEP24_Project_Conference/assets/168224148/244b0611-1469-4128-92b8-e6da8d4d7e28)
 
@@ -65,7 +65,7 @@ Step 10: Deployed Model's Performance's Monitoring and Optimizing at each time.
                                 
                     
                      
-  #               IX. EXPERIMENTAL RESULTS
+  # IX. EXPERIMENTAL RESULTS
   
 The Model has achieved an accuracy of 99% on the test set, with precision and recall ranging from 92% to 98% for different emotions. This indicates the model can correctly identify emotions from body language cues in a majority of cases, with some variation depending on the specific emotion.
 
