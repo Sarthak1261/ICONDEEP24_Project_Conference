@@ -45,7 +45,7 @@ Mitigating Misuse and Bias: Research is needed to address potential misuse of th
 Job Displacement: The potential impact of the technology on professions relying on body language reading requires careful consideration. Research can explore retraining and upskilling programs to minimize job displacement.
 Cultural Sensitivity: Body language interpretation varies significantly across cultures. Research can focus on developing culturally aware models that avoid misinterpretations in diverse context.
 
- # VII. ALGORITHM:
+ # ALGORITHM:
 Step 1: Load the 3D human pose estimation pre-trained CNN model 
 Step 2: Input Image Preprocessing and Resizing it to a fixed size and  pixel values normalizing.
 Step 3: Preprocessed image Feed to the CNN model to obtain the predicted 3D pose.
@@ -57,15 +57,13 @@ Step 8: CNN model's Fine-tuning Model by Hyperparameters's Adjustment  or Changi
 Step 9: Deploy the 3D human Pose Estimation's Trained CNN model In Real-World Applications by Integrating it into a Software or Mobile Application System.
 Step 10: Deployed Model's Performance's Monitoring and Optimizing at each time.
                    
-#    VIII. ARCHITECTURE DIAGRAM
+# ARCHITECTURE DIAGRAM
 
 ![architecture_diagram](https://github.com/Sarthak1261/ICONDEEP24_Project_Conference/assets/168224148/244b0611-1469-4128-92b8-e6da8d4d7e28)
 
-                                
-                                
-                    
+                                              
                      
-  # IX. EXPERIMENTAL RESULTS
+# EXPERIMENTAL RESULTS
   
 The Model has achieved an accuracy of 99% on the test set, with precision and recall ranging from 92% to 98% for different emotions. This indicates the model can correctly identify emotions from body language cues in a majority of cases, with some variation depending on the specific emotion.
 
