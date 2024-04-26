@@ -86,3 +86,9 @@ Figure 5: Featuring Extracted Dataset Points's Accruacy Table
 
 ![dataset_accuracy_Graph_Plot](https://github.com/Sarthak1261/ICONDEEP24_Project_Conference/assets/168224148/2431a989-fd79-48e6-9998-7e7f8c25aee0)
 Figure 6: Dataset's Accuracy Graph Plotting
+
+![Sarthak_Mittal_Major_proj_8th_sem_Confernce_Certificate](https://github.com/Sarthak1261/ICONDEEP24_Project_Conference/assets/168224148/36f49b3f-32ae-4f1c-a224-18796e55d310)
+Sarthak Mittal ICONDEEP2024 Conference Certificate
+
+![Dhruva_Bhatacharya_Major_proj_8th_sem_Confernce_Certificate](https://github.com/Sarthak1261/ICONDEEP24_Project_Conference/assets/168224148/4854226a-d066-4743-9c6a-601810473f13)
+Dhruva Bhattacharya ICONDEEP 2024 Certificate
