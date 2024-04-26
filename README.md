@@ -77,10 +77,14 @@ Figure 2:  Body Detection of Head and Hand
 
 
 ![image](https://github.com/Sarthak1261/ICONDEEP24_Project_Conference/assets/168224148/a97eae21-17dc-414e-97ac-4d3118fca3cd)
+Figure 3: Body Detection Through Mobile Phone
 
 
 ![image](https://github.com/Sarthak1261/ICONDEEP24_Project_Conference/assets/168224148/ad7b7990-2787-4b49-8bda-1225041ff07f)
-Figure 3 : Body Detection Of Upper Half
+Figure 4 : Body Detection Of Upper Half
+
+![image](https://github.com/Sarthak1261/ICONDEEP24_Project_Conference/assets/168224148/f93b375d-83de-4cee-9d56-267ae329f5c3)
+Figure 5: Featuring Extracted Dataset Points's Accruacy Table
 
 ![dataset_accuracy_Graph_Plot](https://github.com/Sarthak1261/ICONDEEP24_Project_Conference/assets/168224148/2431a989-fd79-48e6-9998-7e7f8c25aee0)
-Figure 4: Body Detection Through Mobile Phone
+Figure 6: Dataset's Accuracy Graph Plotting
